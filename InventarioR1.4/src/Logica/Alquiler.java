@@ -16,7 +16,7 @@ public class Alquiler {
     private String fechaRecibido;//Fecha en la que devuelve el cliente
     private String horaRecibido;//hora de la devolucion
     private String tiempoPrestamo;
-    private ArrayList<Tupla> herramientas;
+    private ArrayList<Tupla> herramientas;// guarda una lista de herramientas
 
     public Alquiler() {
         id = "";
