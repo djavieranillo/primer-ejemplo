@@ -9,7 +9,7 @@ import java.util.ArrayList;
 public class Alquiler {
 
     private String id;
-    private Persona persona;//este comentario nuevo 
+    private Persona persona;
     private boolean alquilado;
     private String fechaEntrega;//Fecha en la que se le entrega al cliente
     private String horaEntrega;//hora de la entrega
